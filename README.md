@@ -1,0 +1,2 @@
+# TECHWEZARD-ACADEMY
+Educational website
